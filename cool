@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Мед. Центр Tulpar</title>
+	</head>
+	<body>
+		<main>
+			<div class="redbox">
+				<div class="name"><img class="logo" src=https://scontent.flwo1-1.fna.fbcdn.net/v/t1.6435-9/202341551_930966994133529_9106208896288645352_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=ZdSIS1OiWdoAX-0yM0H&_nc_ht=scontent.flwo1-1.fna&oh=2747e04baa08f8079d2afa86b1af1445&oe=60D18B0F width="60"> TULPAR</div>
+				<h1 class="heading1">КАРДІО-РЕАБІЛІТАЦІЙНИЙ <br> ЦЕНТР</h1>
+				<p class="text1">Lorem ipsum dolor sit amet,<br> consectetur adipisicing elit,<br> sed do eiusmod
+				tempor<br> incididunt ut labore</p>
+				<ul class="li">
+					<li>Назва послуги</li>
+					<li>Назва послуги</li>
+					<li>Назва послуги</li>
+					<li>Назва послуги</li>
+				</ul>
+				<a class="noline" href="#"><div class="border1">
+					Усі послуги
+				</div></a>
+				<img class="paperclip" src="https://scontent.flwo1-1.fna.fbcdn.net/v/t1.6435-9/202244485_930954674134761_4260340228349860579_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=730e14&_nc_ohc=WDXRpd5Jpz4AX9Agv_U&tn=9PWULWRnczdWjdwK&_nc_ht=scontent.flwo1-1.fna&oh=3ca54f42c55452e0dc94fbd467bfcb9b&oe=60D0E153">
+				<div class="bluebox">
+					<h1 class="title">НАШІ ПОСЛУГИ</h1>
+					<img class="hearthear" src="https://scontent.flwo1-1.fna.fbcdn.net/v/t1.6435-9/202119535_931045580792337_358895460780340724_n.jpg?_nc_cat=104&ccb=1-3&_nc_sid=730e14&_nc_ohc=Ge4f0kek58sAX8-P0om&_nc_ht=scontent.flwo1-1.fna&oh=33acb1ae8e6ed43ecea834681bb2a22b&oe=60D11593">
+					<div class="list1">
+						<h2 class="lister1">Кардіо-реабілітаційний <br> центр</h2>
+						<p class="description1">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text</p>
+					</div>
+					<img class="legs" src="https://scontent.flwo1-1.fna.fbcdn.net/v/t1.6435-9/s960x960/202222075_931089780787917_7743184371560774553_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=730e14&_nc_ohc=OTW4OoIziF0AX9k0RTz&_nc_ht=scontent.flwo1-1.fna&tp=7&oh=76d668299b52f4e57cdb82b951f0f0f9&oe=60D2245E">
+					<div class="list2">
+						<h2 class="lister2">Травма-реабілітаційний <br> центр</h2>
+					</div>
+					<div class="list3">
+						<img class="cafe" src="https://scontent.flwo1-1.fna.fbcdn.net/v/t1.6435-9/s960x960/201235236_931105670786328_6067248629316789400_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_ohc=o5X30DMWT1gAX_j0UDO&_nc_ht=scontent.flwo1-1.fna&tp=7&oh=af2f02afbf805e4a312fe430db58e45a&oe=60D16888">
+						<h2 class="lister3">Кафе, їдальня, сервіс <br> і обслуговування</h2>
+					</div>
+					<div class="list4">
+						<img class="sayna" src="https://scontent.flwo1-1.fna.fbcdn.net/v/t1.6435-9/202106668_931125607451001_6161555701124109357_n.jpg?_nc_cat=110&ccb=1-3&_nc_sid=730e14&_nc_ohc=dHZF4oizOTkAX9lUIE5&_nc_ht=scontent.flwo1-1.fna&oh=37334181d0d147f3c52267aaea1f3f94&oe=60D2400A">
+						<h2 class="lister4">Сауна найвищого класу  для <br>відновлення</h2>
+					</div>	
+				</div>
+				<a class="noline" href="#"><div class="border3">
+					Усі послуги
+				</div></a>
+			</div>
+			<nav class="main-nav">
+				<a href="#">Головна</a>
+			    <a href="#">Наші послуги</a>
+			    <a href="#">Звіти</a>
+			    <a href="#">Про нас</a>
+			    <a href="#">Новини</a>
+			    <a href="#">УКР</a>
+			</nav>
+			<h1 class="heading2">ТРАВМА-РЕАБІЛІТАЦІЙНИЙ <br> ЦЕНТР</h1>
+			<p class="text2">Lorem ipsum dolor sit amet,<br> consectetur adipisicing elit,<br> sed do eiusmod
+			tempor<br> incididunt ut labore</p>
+			<ul class="li2">
+				<li>Назва послуги</li>
+				<li>Назва послуги</li>
+				<li>Назва послуги</li>
+				<li>Назва послуги</li>
+			</ul>
+			<a class="noline" href="#"><div class="border2">
+				Усі послуги
+			</div></a>
+			<img class="bed" src="https://scontent.flwo1-1.fna.fbcdn.net/v/t1.6435-9/202349425_930963394133889_6816323091742146639_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=730e14&_nc_ohc=WSX2z8hQ0IYAX9BF5da&_nc_ht=scontent.flwo1-1.fna&oh=09ba953b088e3d5db37d1828ac84014f&oe=60D1B4E4">
+		</main>
+	</body>
+	<style>
+		.border3 {
+			color: black;
+			border: 3px solid white;
+			border-radius: 100px;
+			padding: 15px 15px; 
+			word-break: keep-all;
+			margin: 10% 19% 0 58%;
+			text-align: center;
+		}
+
+		.list1 {
+			width: 280px;
+			height: 170px;
+			background-color: #E95258;
+			margin-left: 136px; 
+			transform: translateY(-15px);
+		}
+
+		.lister1 {
+			color: white;
+			font-size: 17px;
+			margin-left: 10%;
+			padding-top: 13px;
+		}
+
+		.description1 {
+			color: white;
+			font-size: 14px;
+			margin-left: 10%;
+			padding-top: 10px;
+		}
+
+		.hearthear {
+			width: 280px;
+			height: 150px;
+			margin: 50px 0 0 136px;
+		}
+
+		.lister2 {
+			color: white;
+			font-size: 17px;
+			padding-top: 10px;
+			transform: translateY(-337px);
+			margin-left: 463px;
+		}
+
+		.legs {
+			width: 280px;
+			height: 235px;
+			transform: translateY(-337px);
+			margin-left: 433px;
+		}
+
+		.lister3 {
+			color: white;
+			font-size: 17px;
+			padding-top: 10px;
+			transform: translateY(-655px);
+			margin-left: 760px;
+		}
+
+		.cafe {
+			width: 280px;
+			height: 235px;
+			transform: translateY(-655px);
+			margin-left: 730px;
+		}
+
+		.lister4 {
+			color: white;
+			font-size: 17px;
+			padding-top: 10px;
+			transform: translateY(-973px);
+			margin-left: 1045px;
+		}
+
+		.sayna {
+			width: 280px;
+			height: 235px;
+			transform: translateY(-973px);
+			margin-left: 1026px;
+		}
+
+		.title {
+			color: white;
+			margin: 0 0 0 136px;
+			padding-top: 70px;
+			font-size: 45px;
+		}
+
+		.flex-end {
+			display: flex;
+			justify-content: flex-end;
+		}
+
+		.border1 {
+			color: white;
+			border: 3px solid white;
+			border-radius: 100px;
+			padding: 15px 15px; 
+			word-break: keep-all;
+			margin: 10% 19% 0 58%;
+			text-align: center;
+		}
+
+		.border2 {
+			color: black;
+			border: 3px solid black;
+			border-radius: 100px;
+			padding: 15px 15px; 
+			word-break: keep-all;
+			margin: 5.4% 29.5% 0 59%;
+			text-align: center;
+		}
+
+		.noline {
+			text-decoration: none;
+		}
+
+		.bluebox {
+			background-color: #32495E;
+			width: 200%;
+			height: 716px;
+			transform: translateY(-336px);
+		}
+
+		@media (max-width: 1100px) {
+
+		}
+
+		.li {
+			text-align: right;		
+			margin-right: 115px;
+			color: white;
+		}
+
+		.li2 {
+			margin-left: 55%;
+		}
+
+		.logo {
+			transform: translateY(7px);
+		}
+
+		.bed {
+			position:absolute;
+  			right:0;
+			width: 350px;
+			transform: translateY(-277px);
+		}
+
+		@media (max-width: 1100px) {
+			.bed {
+				width: 300px;
+				transform: translateY(-194px);
+			}
+		}
+		@media (max-width: 950px) {
+			.bed {
+				width: 250px;
+				transform: translateY(-201px);
+			}
+		}
+
+		.paperclip {
+			position: relative;
+			transform: translateY(-331px);
+			z-index: -1;
+			width: 360px;
+		}
+
+		@media (max-width: 1100px) {
+			.paperclip {
+				width: 300px;
+			}
+		}
+		@media (max-width: 950px) {
+			.paperclip {
+				width: 250px;
+			}
+		}
+
+		.main-nav {
+		    display: flex;
+		    justify-content: flex-end;
+		}
+
+		.main-nav a {
+		    margin: 22px 10px 10px 10px;
+		    color: #000;
+			padding: 15px;
+			text-decoration: none;
+			z-index: 3;
+		}
+
+		.text1 {
+			text-align: right;		
+			margin-right: 100px;
+			color: white;
+		}
+
+		.heading1 {
+			font-size: 25px;
+			display: flex;
+			justify-content: flex-end;
+			text-align: right;	
+			margin: 110px 100px 0 0;
+			color: white;
+			word-break: keep-all;
+		}
+
+		
+
+		.redbox { 
+		    position: absolute;
+		    width: 50%;
+		    height: 100%;
+		    background-color: #E95258;
+		    z-index: 0;
+		}	
+
+		.name {
+			margin: 20px 0 0 115px;
+			font-size: 30px;
+			color: white;
+
+		}
+
+		.heading2 {
+			font-size: 25px;	
+			margin: 93px 0 0 57%;
+		}
+
+		.text2 {		
+			margin-left: 57%;
+		}
+
+		body, html {
+			margin: 0;
+			overflow-x: hidden;
+			font-family: Sans-serif;
+			background-color: #F9F9F9;
+		}
+	</style>
+</html>
